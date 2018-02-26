@@ -93,7 +93,7 @@
                             <a href="<?php echo base_url(); ?>index.php/welcome/admin"><i class="fa fa-dashboard fa-fw"></i> Dashboard</a>
                         </li>
                         <li>
-                            <a href="#"><i class="fa fa-edit fa-fw"></i>View Data<span class="fa arrow"></span></a>
+                            <a href="#"><i class="fa fa-database fa-fw"></i>View Data<span class="fa arrow"></span></a>
                             <ul class="nav nav-second-level">
                                 <li>
                                     <a href="#">Merchendise <span class="fa arrow"></a>
@@ -147,7 +147,7 @@
                             <!-- /.nav-second-level -->
                         </li>
                         <li>
-                            <a href="#"><i class="fa fa-edit fa-fw"></i>Manajemen<span class="fa arrow"></span></a>
+                            <a href="#"><i class="fa fa-file fa-fw"></i>Manajemen<span class="fa arrow"></span></a>
                             <ul class="nav nav-second-level">
                                 <li>
                                     <a href="#">Pengeluaran</a>
