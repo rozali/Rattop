@@ -147,7 +147,7 @@
                             <!-- /.nav-second-level -->
                         </li>
                         <li>
-                            <a href="#"><i class="fa fa-file fa-fw"></i>Manajemen<span class="fa arrow"></span></a>
+                            <a href="#"><i class="fa fa-file-text fa-fw"></i>Manajemen<span class="fa arrow"></span></a>
                             <ul class="nav nav-second-level">
                                 <li>
                                     <a href="#">Pengeluaran</a>
