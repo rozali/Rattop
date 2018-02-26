@@ -33,7 +33,11 @@
 </head>
 
 <body>
-
+    <nav class="navbar navbar-default navbar-static-top" role="navigation" style="margin-bottom: 0">
+        <div class="navbar-header">
+            <a class="navbar-brand" href="<?php echo base_URL(); ?>index.php/welcome">Rattop</a>
+        </div>
+    </nav>
     <div class="container">
         <div class="row">
             <div class="col-md-4 col-md-offset-4">
