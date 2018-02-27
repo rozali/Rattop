@@ -298,7 +298,7 @@ class Welcome extends CI_Controller {
 	public function vpants()
 	{
 		$this->load->model('merch');
-		$data['data']=$this->merch->viewpant();
+		$data['data']=$this->merch->viewpants();
 		$this->load->view('admin/data/vpants',$data);
 	}
 	public function vhelm()
