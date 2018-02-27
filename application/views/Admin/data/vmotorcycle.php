@@ -93,7 +93,7 @@
                             <a href="<?php echo base_url(); ?>index.php/welcome/admin"><i class="fa fa-dashboard fa-fw"></i> Dashboard</a>
                         </li>
                         <li class="active">
-                            <a href="#"><i class="fa fa-edit fa-fw"></i>View Data<span class="fa arrow"></span></a>
+                            <a href="#"><i class="fa fa-database fa-fw"></i>View Data<span class="fa arrow"></span></a>
                             <ul class="nav nav-second-level collapse in" aria-expanded="true">
                                 <li>
                                     <a href="#">Merchendise <span class="fa arrow"></a>
