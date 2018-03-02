@@ -161,10 +161,10 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <a href="<?php echo base_url(); ?>index.php/welcome/iacc">Pemasukan</a>
+                                    <a href="#">Pemasukan</a>
                                 </li>
                                 <li>
-                                    <a href="<?php echo base_url(); ?>index.php/welcome/imtrc">Rekap</a>
+                                    <a href="#">Rekap</a>
                                 </li>
                             </ul>
                             <!-- /.nav-second-level -->
